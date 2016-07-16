@@ -1,0 +1,10 @@
+site_name: Monolyth Plumber documentation
+site_url: http://monolyth.monomelodies.nl/plumber/
+repo_url: https://github.com/monolyth-php/plumber
+
+pages:
+- Home:
+    - 'Overview': 'index.md'
+
+copyright: Copyright &copy; 2002-2016, <a href="http://monomelodies.nl/">Marijn Ophorst</a>
+
