@@ -1,0 +1,18 @@
+{
+    "name": "monolyth/plumber",
+    "description": "Utilities for the Monolyth unframework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Monolyth\\Plumber\\": "src/"
+        }
+    }
+}
