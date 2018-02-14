@@ -16,5 +16,8 @@
         "psr-4": {
             "Monolyth\\Plumber\\": "src/"
         }
+    },
+    "require-dev": {
+        "toast/unit": "^1.3"
     }
 }
